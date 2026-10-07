@@ -1,0 +1,6 @@
+{
+  "name": "ScanX",
+  "description": "Scan anything. Discover everything. Next-generation youth-oriented AI scanner and barcode interpreter in English and Nepali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
